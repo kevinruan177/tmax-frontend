@@ -230,7 +230,7 @@ npm run lint
              ▼
 ┌─────────────────────────────────────┐
 │ Backend FastAPI                     │
-│ (TMAX API v2.0)                     │
+│ (TMAX API v2.0)                     │ 
 │ https://tmax-backend.onrender.com   │
 └────────────┬────────────────────────┘
              │
